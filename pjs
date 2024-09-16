@@ -1,0 +1,137 @@
+/**
+ * Privacy Policy
+ * 
+ * This application (the "App") is committed to protecting the privacy and security 
+ * of its users' personal information. This Privacy Policy outlines the types of data 
+ * we collect, how it is used, and the choices users have regarding their personal information.
+ * 
+ * 1. Information We Collect
+ *    We collect information that users provide directly to us and data automatically 
+ *    collected through the use of the App. The types of information we collect include:
+ *    
+ *    a. Personal Information: This may include your name, email address, phone number, 
+ *       and other identifiable information when you register an account, contact customer 
+ *       service, or engage with other features of the App.
+ *    
+ *    b. Usage Information: We automatically collect certain data when users interact with 
+ *       the App. This includes information about the device, IP address, browser type, 
+ *       pages visited, time spent on the App, and other analytical data.
+ *    
+ *    c. Cookies and Tracking Technologies: We may use cookies, web beacons, and similar 
+ *       technologies to collect information about users' interactions with the App. These 
+ *       technologies help us understand user behavior and improve the App experience.
+ * 
+ * 2. How We Use the Information
+ *    The information we collect is used for the following purposes:
+ *    
+ *    a. To Provide and Improve the App: We use the information to deliver the App’s 
+ *       functionality and improve the user experience. This includes customizing 
+ *       content, providing recommendations, and improving the App's performance.
+ *    
+ *    b. To Communicate with Users: We use personal information to send important updates 
+ *       about the App, respond to inquiries, and provide customer support.
+ *    
+ *    c. Marketing and Promotional Purposes: With users' consent, we may use their 
+ *       information to send marketing emails and promotions related to the App. Users 
+ *       have the option to opt-out of these communications.
+ *    
+ *    d. Analytics and Performance Monitoring: Usage information helps us analyze 
+ *       how users interact with the App, identify potential improvements, and track 
+ *       performance metrics.
+ *    
+ *    e. Legal and Security Purposes: We may use the information to comply with legal 
+ *       obligations, prevent fraud, and enhance the security of the App and its users.
+ * 
+ * 3. Sharing of Information
+ *    We do not share personal information with third parties except as described below:
+ *    
+ *    a. Service Providers: We may share information with third-party vendors and 
+ *       service providers who assist us in operating the App, such as hosting, 
+ *       analytics, and customer support.
+ *    
+ *    b. Legal Requirements: We may disclose personal information if required by law, 
+ *       in response to legal requests, or to protect the rights and safety of users.
+ *    
+ *    c. Business Transfers: In the event of a merger, acquisition, or sale of the 
+ *       App or its assets, users' personal information may be transferred to the 
+ *       new owner.
+ *    
+ *    d. Aggregated Data: We may share aggregated or de-identified information that 
+ *       does not personally identify users for research, marketing, or other business 
+ *       purposes.
+ * 
+ * 4. Data Retention
+ *    We retain users' personal information for as long as necessary to provide 
+ *    the App's services or as required by applicable laws. Users may request the 
+ *    deletion of their personal information by contacting us at the email provided below.
+ * 
+ * 5. User Choices and Control
+ *    Users have several choices regarding their personal information:
+ *    
+ *    a. Access and Correction: Users can access, update, or correct their personal 
+ *       information by logging into their account or contacting customer support.
+ *    
+ *    b. Opt-out of Marketing Communications: Users may opt-out of receiving 
+ *       marketing emails by following the instructions in the email or contacting 
+ *       us directly.
+ *    
+ *    c. Cookie Management: Most browsers allow users to control cookies through their 
+ *       settings. Users can choose to block or delete cookies, though this may impact 
+ *       the functionality of the App.
+ *    
+ *    d. Data Deletion: Users may request the deletion of their personal data, subject 
+ *       to certain legal limitations, by contacting us at the email address below.
+ * 
+ * 6. Security Measures
+ *    We take the security of users' personal information seriously and employ 
+ *    industry-standard security measures, including encryption, to protect against 
+ *    unauthorized access, loss, or misuse. However, no method of transmission 
+ *    over the internet or electronic storage is 100% secure, and we cannot guarantee 
+ *    absolute security.
+ * 
+ * 7. Children's Privacy
+ *    The App is not intended for children under the age of 13, and we do not 
+ *    knowingly collect personal information from children. If we learn that we 
+ *    have inadvertently collected information from a child, we will take steps 
+ *    to delete such information.
+ * 
+ * 8. Third-Party Links
+ *    The App may contain links to third-party websites or services that are 
+ *    not controlled by us. This Privacy Policy does not apply to such third-party 
+ *    sites, and we encourage users to review their privacy policies before 
+ *    interacting with them.
+ * 
+ * 9. International Data Transfers
+ *    Users' information may be transferred to and processed in countries outside 
+ *    their own, including countries that may not provide the same level of data 
+ *    protection as their home country. By using the App, users consent to such 
+ *    transfers of their personal information.
+ * 
+ * 10. Changes to the Privacy Policy
+ *     We reserve the right to update this Privacy Policy at any time. We will 
+ *     notify users of any material changes by posting a notice on the App or 
+ *     by sending an email. Users should review the policy periodically for updates.
+ * 
+ * 11. Contact Us
+ *     If users have any questions or concerns about this Privacy Policy or 
+ *     their personal information, they may contact us at:
+ *     
+ * 
+ * 
+ * 
+ * 
+ *     Email: privacy@app.com
+ *     Address: 123 Privacy Lane, City, Country
+ * 
+ * 12. User Consent
+ *     By using the App, users acknowledge that they have read, understood, 
+ *     and agreed to this Privacy Policy. If users do not agree with this policy, 
+ *     they should discontinue using the App.
+ * 
+ * Effective Date: [Insert Date]
+ * 
+ * DISCLAIMER: This privacy policy is for informational purposes only and does not 
+ * constitute legal advice. Please consult with legal counsel to ensure your privacy 
+ * policy complies with applicable laws and regulations.
+ */
+const correctPassword = "6566727383726975@";
